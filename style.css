@@ -1,0 +1,52 @@
+#navbar li{
+    display: inline;
+    text-align: left;
+    list-style: none;
+}
+
+#navbar2 li{
+    display: inline;
+    text-align: right;
+    list-style: none;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
+}
+
+#searchbar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#button1 {
+    display: flex;
+}
+
+#button2 {
+    display: flex;
+}
+
+#fsl {
+    display: inline-block;
+    width: 50%;
+}
+
+#fsr {
+    display: inline-block;
+    width: 50%;
+}
+
+#signinbutton {
+    color: white;
+    background-color: #4285f4;
+    border: 1px solid;
+    font-weight: bold;
+    outline: none;
+}
